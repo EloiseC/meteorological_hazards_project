@@ -27,10 +27,11 @@
         </header>
         
         <content>
-            <!-- Main Indicator-->
-            <?php include('includes/content/main_indicator.php'); ?>
 
-             <!-- Repartition Disaster Type Section-->
+            <!-- Introduction Section-->
+            <?php include('includes/content/introduction.php'); ?>
+
+            <!-- Repartition Disaster Type Section-->
             <?php include('includes/content/repartition_disaster_type.php'); ?>
 
             <!-- Disaster and Death Section-->
