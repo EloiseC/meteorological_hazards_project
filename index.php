@@ -32,7 +32,7 @@
             <?php include('includes/content/introduction.php'); ?>
 
             <!-- Repartition Disaster Type Section-->
-            <?php include('includes/content/repartition_disaster_type.php'); ?>
+            <?php include('includes/content/distribution_disasters.php'); ?>
 
             <!-- Disaster and Death Section-->
             <?php include('includes/content/disaster_and_death.php'); ?>
