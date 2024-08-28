@@ -4014,6 +4014,7 @@ input[type=button].btn-block {
   padding-left: 0;
   margin-bottom: 0;
   list-style: none;
+  text-align: center;
 }
 .navbar-nav .nav-link {
   padding-right: 0;
@@ -10138,7 +10139,7 @@ form .row:first-child .floating-label-form-group {
   background-color: lightblue;
 }
 
-#disaster_and_death {
+#disaster_and_time {
   background-color: #2E93B0;
 }
 

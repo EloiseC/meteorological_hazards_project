@@ -35,11 +35,13 @@
             <!-- Repartition Disaster Type Section-->
             <?php include('includes/content/distribution_disasters.php'); ?>
 
+            <!-- Achievements Section-->
+            <?php include('includes/content/disaster_and_time.php'); ?>
+
             <!-- Disaster and Death Section-->
             <?php include('includes/content/disaster_and_death.php'); ?>
 
-            <!-- Achievements Section-->
-            <?php include('includes/content/disaster_and_time.php'); ?>
+           
             
         </content>
            
