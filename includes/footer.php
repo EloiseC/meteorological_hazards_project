@@ -1,6 +1,6 @@
 <footer class="footer text-center">
     <p>
-         Le Wagon - Project Group - Meteorological Hazards Project
+         Le Wagon - Project Group - Climate Hazards Project
     </p>
 </footer>
 

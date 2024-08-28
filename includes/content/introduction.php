@@ -11,7 +11,7 @@
                 <div class="divider-custom-line"></div>
             </div>
             <!-- Main Indicator-->
-            <p class="text-center font-weight-bold">Some indocators between 2000 and 2024 in the world</p>
+            <p class="text-center font-weight-bold">Some key figures about the period 2000 - 2024 worldwide</p>
             <?php include('includes/content/main_indicator.php'); ?>
             <div class="divider-custom">
                 <div class="divider-custom-line"></div>
@@ -22,20 +22,20 @@
                     <div class="cards d-flex flex-column">
                         <p class="font-weight-bold text-center">Project</p> 
                         <p class="card-info">
-                            • Exploration of climatic hazards worldwide between 2000 & 2024<br/>
-                            • Valuation of existing data through creation of interactive dashboard<br/>
+                            • Exploration of climate hazards worldwide between 2000 & 2024<br/>
+                            • Showcase of existing data through creation of an interactive dashboard<br/>
                         </p>
                     </div>
                     <div class="cards d-flex flex-column">
                         <p class="font-weight-bold text-center">Dataset</p> 
-                        <p class="card-info">• From EM-DAT via World Bank's network</p>
+                        <p class="card-info">• From EM-DAT used by the World Bank</p>
                     </div>
                     <div class="cards d-flex flex-column">
                         <p class="font-weight-bold text-center">Axes of analysis</p> 
                         <p class="card-info">
-                            • Geographic distribution of hazards<br/>
-                            • Frequency & intensity of events<br/>
-                            • Impacts in terms of casualties<br/>
+                            • Geographic Distribution of Hazards<br/>
+                            • Frequency & Intensity of Events<br/>
+                            • Impacts in Terms of Casualties<br/>
                         </p>
                     </div>
                 </div>
