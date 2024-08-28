@@ -5,7 +5,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         <meta name="description" content="contructeur de maisons" />
         <meta name="author" content="dupuy-mp" />
-        <title>METEOROLOGICAL HAZARDS PROJECT</title>
+        <title>CLIMATE HAZARDS PROJECT</title>
         <!-- Favicon-->
         <link rel="icon" type="image/x-icon" href="./assets/img/fav.ico" />
         <!-- Font Awesome icons (free version)-->

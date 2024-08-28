@@ -1,8 +1,8 @@
-<section class="page-section mt-0 mb-0 full-screen-div" id="introduction">
+<section class="page-section mt-0 mb-0" id="introduction">
         <div class="container">
 
             <!-- About Section Heading-->
-            <h2 class="page-section-heading text-center text-uppercase">Avant propos</h2>
+            <h2 class="page-section-heading text-center text-uppercase">Introduction</h2>
 
             <!-- Icon Divider-->
             <div class="divider-custom">
@@ -31,7 +31,7 @@
                         <p class="card-info">• From EM-DAT via World Bank's network</p>
                     </div>
                     <div class="cards d-flex flex-column">
-                        <p class="font-weight-bold text-center">Axis of analysis</p> 
+                        <p class="font-weight-bold text-center">Axes of analysis</p> 
                         <p class="card-info">
                             • Geographic distribution of hazards<br/>
                             • Frequency & intensity of events<br/>
@@ -40,5 +40,10 @@
                     </div>
                 </div>
             </div>
+            <div class="divider-custom">
+                <div class="divider-custom-line"></div>
+            </div>
+            <h5 class="text-center">Data set introduction</h5>
+            <iframe id="d_i_iframe" src="https://lookerstudio.google.com/embed/reporting/c4dff90c-309a-42d5-891d-ed02fda51f2a/page/p_0h9l58ghkd" frameborder="0" style="border:0" allowfullscreen sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"></iframe>
         </div>
 </section>

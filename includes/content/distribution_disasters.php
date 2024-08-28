@@ -1,4 +1,4 @@
-<section class="page-section portfolio" id="distribution_disasters">
+<section class="page-section portfolio pt-0" id="distribution_disasters">
     <div class="container">
         <!-- Portfolio Section Heading-->
         <h2 class="page-section-heading text-center text-uppercase text-secondary mb-0">Distribution Disasters</h2>
