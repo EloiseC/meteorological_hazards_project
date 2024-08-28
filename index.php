@@ -41,7 +41,8 @@
             <!-- Disaster and Death Section-->
             <?php include('includes/content/disaster_and_death.php'); ?>
 
-           
+           <!-- Recommendations Section-->
+           <?php include('includes/content/recommendations.php'); ?>
             
         </content>
            
